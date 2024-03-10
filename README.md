@@ -3,7 +3,7 @@
 2D platformer/shooter video game using java. <br>
 I am looking for collaborators:
 1. 2D artist 🎨
-2. Audio editing master 🔉
+2. Audio editing master 🔉 <br>
 Optionally (but still in need):
 3. Video editing master 📽
 4. Focus group 🎮
