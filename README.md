@@ -4,6 +4,7 @@
 I am looking for collaborators:
 1. 2D artist 🎨
 2. Audio editing master 🔉
+Optionally:
 3. Video editing master 📽
 4. Word processing master 📃
 5. Focus group 🎮
